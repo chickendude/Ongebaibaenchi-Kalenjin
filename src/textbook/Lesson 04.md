@@ -1,4 +1,4 @@
-## Lesson 4
+# Lesson 4
 
 **Kimayat Chemiron** – The Drunkard, Chemiron
 

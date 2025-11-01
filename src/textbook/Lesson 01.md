@@ -1,4 +1,4 @@
-## Kochomchomi Michael omitwogik ab Kalenjin
+# Kochomchomi Michael omitwogik ab Kalenjin
 
 Michael Tastes (a) Kalenjin Meal
 

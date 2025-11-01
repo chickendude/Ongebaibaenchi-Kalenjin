@@ -1,4 +1,4 @@
-## Lesson 7
+# Lesson 7
 
 **Chemoget ak kiboityot** – The boss and the employee
 

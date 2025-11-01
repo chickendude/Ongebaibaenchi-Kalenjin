@@ -1,4 +1,4 @@
-## Lesson 8
+# Lesson 8
 
 **Neko ak bandek** – Goats and maize
 

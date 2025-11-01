@@ -1,4 +1,4 @@
-## Lesson 3
+# Lesson 3
 
 **Kagesich lakwet** – A child has been born
 

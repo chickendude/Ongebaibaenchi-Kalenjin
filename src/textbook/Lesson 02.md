@@ -1,4 +1,4 @@
-## Lesson 2
+# Lesson 2
 
 **Michael, Jepkemboi ak Tergat en gaa** – Michael, Jepkemboi and Tergat at home
 
