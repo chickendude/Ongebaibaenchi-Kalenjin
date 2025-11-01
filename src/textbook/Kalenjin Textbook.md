@@ -57,7 +57,7 @@
 27. **mindilil** – sour  
 28. **boiboenjin** – enjoy
 
-#### Vocabulary Notes
+### Vocabulary Notes
 
 Isagek is a leafy plant that can be cooked and eaten:  
 <img src="images/isagek.jpg" alt="Description" width="80">
@@ -70,7 +70,7 @@ Mursik is a traditional fermented milk variant of the Kalenjin people of Kenya. 
 
 ### Grammar
 
-### 1.1 Verb Conjugations in Kalenjin
+#### 1.1 Verb Conjugations in Kalenjin
 
 Verbs in Kalenjin hold a lot more information than in English. We'll gradually cover how they work, for now let's look at how to form simple, present tense forms.
 
@@ -90,7 +90,7 @@ We are hungry. – Kisiorore/Kisiorortosi.
 They are hungry – Siorortos.  
 Are you hungry? – Tos isiorore?
 
-### 1.2 Present Tense (Imperfect Aspect)
+#### 1.2 Present Tense (Imperfect Aspect)
 
 The present tense is formed by adding the personal prefix at the front of the root and the tense suffix -i or -e at the end.
 
@@ -103,7 +103,7 @@ Take a look at the verb **chom** / **cham**, *to like* (see note at end regardin
 5. ochome mursik – you all like sour milk  
 6. chome mursik – they like sour milk
 
-### 1.3 Multiple Verbs
+#### 1.3 Multiple Verbs
 
 Note that when multiple verbs are stringed together, the personal prefix is added, but the tense suffix (-e / -i) is not.
 
@@ -146,7 +146,7 @@ Note: **kiame** means *we are eating*, but can also mean *it's edible*, dependin
 5. omoche ochamcham – you all want to taste  
 6. moche kochamcham – they want to taste
 
-### 1.4 "Tos" Questions
+#### 1.4 "Tos" Questions
 
 Tos is used to mark a question. In the absence of another question word (such as *nee*, "what"), it turns the question into a yes/no question:
 
@@ -154,7 +154,7 @@ Tos is used to mark a question. In the absence of another question word (such as
 2. Tos korur kimyet i? – Is the ugali ready?  
 3. Tos iame isagek i? – Do you eat spider plant?
 
-### 1.5 Inamen / inam
+#### 1.5 Inamen / inam
 
 Words ending with -en are a sort of guidance as to what you should do, almost like a command, as you’re instructed how to do something.
 
@@ -171,7 +171,7 @@ Words ending with -en are a sort of guidance as to what you should do, almost li
    taachen/taagen- welcome with/welcome using  
    1. *taachen/taagen kimyet* "welcome with the ugali", "help yourself to the ugali"
 
-### 1.6 a vs. o
+#### 1.6 a vs. o
 
 In Kalenjin, "a" and "o" are often interchangeable. The pronunciation is the same for most words which start with "a" or "o".  
 Kipsigis is the Kalenjin dialect spoken by most Kalenjin tribes, and in this dialect (which the course is based off of) you often hear them used interchangeably.
@@ -184,7 +184,7 @@ Kipsigis is the Kalenjin dialect spoken by most Kalenjin tribes, and in this dia
 
 Whether you use "a" or "o" in these words, the meaning remains the same. The form with “a” is used by all Kalenjin tribes, but the “o” is only used in the Kipsigis dialect. Notice that other "a" sounds generally switch to an "o" as well, not just the initial letter.
 
-## Cultural Note
+### Cultural Note
 
 In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sour" or "bitter". When eating in Kalenjin and you’re asked about the food, you should explain how the food tastes, like *mursik* ("sour milk") in the dialog. It is delicious, but you have to also mention what makes it delicious. That's why we add the word *mindilil*, meaning "sour". The sourness is what makes it delicious.
 
