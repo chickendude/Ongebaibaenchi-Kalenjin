@@ -3,5 +3,5 @@ This repo contains a collection of tools and resources for learning (and potenti
 
 ## Contents
 
-- [Kalenjin Textbook](../dialogs/Kalenjin%20Textbook.md) - A series of dialogs (with audio and some vocabulary and grammar
+- [Kalenjin Textbook](./dialogs/Kalenjin%20Textbook.md) - A series of dialogs (with audio and some vocabulary and grammar
  notes). The audio can be found [here](dialogs/audio).
