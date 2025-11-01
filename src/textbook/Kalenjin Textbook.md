@@ -4,11 +4,11 @@
 
 [Audio](audio/01%20Michael%20tastes%20a%20Kalenjin%20meal.mp3)
 
-# Lesson 1
+## Lesson 1
 
 **Kochomchomi Michael omitwogik ab Kalenjin** – Michael Tastes (a) Kalenjin Meal
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -21,7 +21,7 @@
 | Michael: | Kongoi, onyiny ago mindilil. | Thanks, (it tastes) nice and sour. |
 | Chirchir: | Boiboenjin. | Enjoy. |
 
-## Vocabulary
+### Vocabulary
 
 1. **kochomchomi** – he is tasting  
 2. **omitwogik** – food  
@@ -57,7 +57,7 @@
 27. **mindilil** – sour  
 28. **boiboenjin** – enjoy
 
-### Vocabulary Notes
+#### Vocabulary Notes
 
 Isagek is a leafy plant that can be cooked and eaten:  
 <img src="images/isagek.jpg" alt="Description" width="80">
@@ -68,7 +68,7 @@ Kimyet (*ugali*) is made from cornmeal and looks like this:
 Mursik is a traditional fermented milk variant of the Kalenjin people of Kenya. It can be made from cow or goat milk and is fermented in a specially made calabash gourd locally known as a sotet.
 <img src="images/mursik.png" alt="Description" width="80">
 
-## Grammar
+### Grammar
 
 ### 1.1 Verb Conjugations in Kalenjin
 
@@ -188,13 +188,13 @@ Whether you use "a" or "o" in these words, the meaning remains the same. The for
 
 In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sour" or "bitter". When eating in Kalenjin and you’re asked about the food, you should explain how the food tastes, like *mursik* ("sour milk") in the dialog. It is delicious, but you have to also mention what makes it delicious. That's why we add the word *mindilil*, meaning "sour". The sourness is what makes it delicious.
 
-# Lesson 2
+## Lesson 2
 
 **Michael, Jepkemboi ak Tergat en gaa** – Michael, Jepkemboi and Tergat at home
 
 [Audio](audio/02%20Michael,%20Jepkemboi%20and%20Tergat%20at%20home.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -207,7 +207,7 @@ In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sou
 | Jepkemboi | Maiwek chebo keny en Kenya che kichoben bandek, beek anan mosongik. | They are traditional Kenyan beers, which are fermented from maize, millet or sorghum. |
 | Tergat | Ngoro rogoret? | Where is the straw? |
 
-## Vocabulary
+### Vocabulary
 
 1. **en** – at, in  
 2. **gaa/kaa** – home  
@@ -253,7 +253,7 @@ In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sou
 
 ## 
 
-## Grammar
+### Grammar
 
 ### 2.1 Che vs Ne
 
@@ -374,13 +374,13 @@ Maiwek *chebo keny* en Kenya	Beer *belonging to ancient times* in Kenya
 	A traditional Kenyan beer  
 Note again that "maiwek" is considered plural in Kalenjin\!
 
-# Lesson 3
+## Lesson 3
 
 **Kagesich lakwet** – A child has been born
 
 [Audio](audio/03%20A%20child%20has%20been%20born.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -395,7 +395,7 @@ Note again that "maiwek" is considered plural in Kalenjin\!
 | Michael | Tos amunee asi keguuren Kibet? | Why then is he named Kibet? |
 | Seli | Amun kogisiche bet. | Because he was born (yesterday) during the day ("in the process of being born during the day"). |
 
-## Vocabulary
+### Vocabulary
 
 1. **kagesich** – he/she has been born  
    From the word *sich*, meaning *to give birth*. *Kagesich* is reported speech.  
@@ -429,7 +429,7 @@ Note again that "maiwek" is considered plural in Kalenjin\!
 17. **ndo, indo** – if  
 18. **amunee** - why, lit. "because what?"
 
-## Grammar
+### Grammar
 
 ### 3.1 Combining Words
 
@@ -491,14 +491,14 @@ Ilenjon / Mwowon anyo 	You tell me to come
 Mwowech kebwan	You tell us to come  
 Ilenjin / Mwochin kobwa	Tell them to come
 
-# Lesson 4
+## Lesson 4
 
 **Kimayat Chemiron** – The Drunkard, Chemiron
 
 [Audio](audio/04%20Chemiron.mp3)  
 [Audio - old ver.](04%20Chemiron%20-%20old.m4a)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -523,7 +523,7 @@ Ilenjin / Mwochin kobwa	Tell them to come
 | Chemiron | Siorortos lagok en gaa. | The children are hungry at home. |
 | Joseah | Ui, matiiman. | Go, don’t disturb me. |
 
-## Vocabulary
+### Vocabulary
 
 1. **kimayat** / **kimainik** – (male) drunkard  
    **nemiee** / **nemnyee** – a man-to-man greeting, when both are the same age or by an older man greeting a younger one (only used by circumcised men)  
@@ -607,7 +607,7 @@ Ilenjin / Mwochin kobwa	Tell them to come
     an – shows the object, *me*, \= -*on*  
     Only that in this word, ‘on’ cannot be used
 
-## Grammar
+### Grammar
 
 * ko-i-oldo-i – you just sold.  
   ko- at the beginning mostly shows time the action happened and “i” at the end shows it is a direct speech. We'd say kooldoo / koaldoo if it was a reported speech.  
@@ -651,12 +651,12 @@ If I send you to lucas to borrow for me I will say besenwon Lucas
 * **more ole sentences**  
 * Besendewon - besen-de-w-on? what is the -de?
 
-# Lesson 5
+## Lesson 5
 
 **Katunisiet** - The Wedding
 
 [Audio](audio/05%20Katunisiet.mp3)
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -676,7 +676,7 @@ If I send you to lucas to borrow for me I will say besenwon Lucas
 
 Note: Barimen is just teasing his friend to see if he really doesn't smoke anymore.
 
-## Vocabulary
+### Vocabulary
 
 1. **katunisiet** – wedding (ceremony)  
 2. **weri**  – My friend/Buddy  
@@ -728,7 +728,7 @@ Note: Barimen is just teasing his friend to see if he really doesn't smoke anymo
 35. **boto**  – Among  – We add ‘n’ to show I am among instead of saying ‘boto anee’  
 36. **leye** – gentleman, you people
 
-## Grammar
+### Grammar
 
 ### 5.1 ko
 
@@ -780,14 +780,14 @@ Are you (pl) among those who are sleeping?
 When it ends in a consonant, we generally use nenyun instead of the short -nyun form:  
 kwondanyun (my wife) vs kwariat nenyun (my ankle)
 
-# Lesson 6
+## Lesson 6
 
 **Kapkiruok** – Court
 
 [Audio](audio/06%20Kapkiruok.mp3)  
 [Audio ver. 2](06%20Kapkiruok%202.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -804,7 +804,7 @@ kwondanyun (my wife) vs kwariat nenyun (my ankle)
 | Kiruogindet | Nyolu itegis lagokuk ak kwondong’ung’. | You must respect your children and your wife. |
 | Chebochok | Iman kiruogindet. | True, chief. |
 
-## Vocabulary
+### Vocabulary
 
 * Discuss Swahili time (starts at 6 am for sunrise, 6 pm for sunset
 
@@ -854,7 +854,7 @@ kwondanyun (my wife) vs kwariat nenyun (my ankle)
 26. **Nyolu** – must   
 27. **Iman** – true
 
-## Grammar
+### Grammar
 
 ### itu / ite - Directional suffixes
 
@@ -913,13 +913,13 @@ Lagok (che) kwok - your children (more than one person
 
 Kiruogindet is anyone who is listening to a case. In Kenya there's a person employed by the government we call then chiefs who have power to arrest and judge on Minor village issues and that is why Kalenjin call kiruogindet.
 
-# Lesson 7
+## Lesson 7
 
 **Chemoget ak kiboityot** – The boss and the employee
 
 [Audio](audio/07%20Chemoget%20ak%20Kiboityot.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -934,7 +934,7 @@ Kiruogindet is anyone who is listening to a case. In Kenya there's a person empl
 | Kiboityot | Yom asi abarin, iberber\! | Try and then I will kill you, you're stupid\! |
 | Chemoget | Anee? | Me? |
 
-## Vocabulary
+### Vocabulary
 
 1. **chemoget** – Boss  
 2. **kiboityot** – Employee  
@@ -961,7 +961,7 @@ Kiruogindet is anyone who is listening to a case. In Kenya there's a person empl
 16. **tebutiet / tebutyet** – Question  
 17. **ibole** – You're making noise
 
-## Grammar
+### Grammar
 
 ### 7.1 Sentence Structure
 
@@ -997,13 +997,13 @@ Tos ing'olole Kingereza?	Do you speak English?
 
 ### 7.5 Ngen vs Nai
 
-# Lesson 8
+## Lesson 8
 
 **Neko ak bandek** – Goats and maize
 
 [Audio](audio/08%20Neko.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1024,7 +1024,7 @@ kai1 gai1 \= better
 kai3 gai1 \= please  
 i3 gai1 gai13 \= to beg
 
-## Vocabulary
+### Vocabulary
 
 1. **artet** / **neko** – goat  
 2. **bandiat / bandek** – (piece of) corn, maize  
@@ -1066,7 +1066,7 @@ i3 gai1 gai13 \= to beg
 29. **kwenet** – middle  
 30. **chakte(n)** – hurry
 
-## Grammar
+### Grammar
 
 1\. Kakoba - "ko" shows the action is already done. Kakosus Michael bendo, kakopir Kanyinge lakwet. Kakonyebut Lucas maiwek.  
 3\. a. Kit - thing   
@@ -1076,13 +1076,13 @@ i3 gai1 gai13 \= to beg
 5\. "ko" no real meaning. Just to make sentence flow well. It is also correct to say "ayoni chechang amun mbaret inoni ko wo missing" (shall explain in our next class how it works)  
 6\. Yes, "ko" used to form adverbs. 
 
-# Lesson 9
+## Lesson 9
 
 **Nyasutiet** – The Accident
 
 [Audio](audio/09%20Nyasutiet.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1105,7 +1105,7 @@ i3 gai1 gai13 \= to beg
 | Kanetindet | Haiya, kaomwaa. | Okay. (We'll do as) you all have said. |
 | Bik | Ongekanap, agenge, oeng, somok ongebe. | Let's raise it up. One, two three let's go. |
 
-## Vocabulary
+### Vocabulary
 
 1. **luul** – fall  
 2. **kanap** – raise  
@@ -1130,7 +1130,7 @@ i3 gai1 gai13 \= to beg
 20. **yamat** – dry  
 21. **mumek** – overturn
 
-## Grammar
+### Grammar
 
 ### -ji
 
@@ -1209,13 +1209,13 @@ Kaamwaa - I have said (a- anee)
 Kaimwaa - you have said (i - inyee)  
 Kaomwaa - you have said (o - okwek)
 
-# Lesson 10
+## Lesson 10
 
 **Moning’otiot ak kwondo** – Husband and wife
 
 [Audio](audio/10%20Moning'otiot.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1233,7 +1233,7 @@ Kaomwaa - you have said (o - okwek)
 | Kwondo | Kianyoru kimi ak chepkeleliot kot orit ichegen. | I met him with a lady inside the house alone. |
 | Chelangat | Iyo, ibwate che samis kityo. Nyolu iwal kabwatutik cheguk che samis. | Mother, you only think bad. You should change your bad thoughts. |
 
-## Vocabulary
+### Vocabulary
 
 1. **ichegen, icheken** – alone  
    From “ichek” – “them”. When **-en** is added, the meaning changes to alone.  
@@ -1281,15 +1281,15 @@ Kaomwaa - you have said (o - okwek)
 25. **iwal** – you change  
     1. **wal** – to change
 
-## Grammar
+### Grammar
 
-# Lesson 11
+## Lesson 11
 
 **Moning’otiot ak kwondo 2** – Husband and wife 2
 
 [Audio](audio/11%20Moning'otiot%202.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1308,7 +1308,7 @@ Kaomwaa - you have said (o - okwek)
 | Chelangat | Ui kityo icheng kot neirue imuch komie iyo mutai. Masise ra. | Just go look for a house you will sleep maybe mum will be good tomorrow. She's not getting quiet today. |
 | Moning'otiot | Kongoi missing lakwani. Ndo u lagok tugul inye, baibaitu kapchi tugul. | Thanks much this child. If all the children are like you, all families will be happy |
 
-## Vocabulary
+### Vocabulary
 
 1. **bakule** – Person you were circumcised together.  
 2. **bomuru** – Wife to your brother, the person of your age group and to your bakule  
@@ -1325,15 +1325,15 @@ Kaomwaa - you have said (o - okwek)
 10. **chepkinyariat** – lady, prostitute  
     1. **nyer** – to rape
 
-## Grammar
+### Grammar
 
-# Lesson 12
+## Lesson 12
 
 **Moning'otiot ak kwondo 3** – Husband and wife 3
 
 [Audio](audio/12%20Moning'otiot%203.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1350,7 +1350,7 @@ Kaomwaa - you have said (o - okwek)
 | Chelangat | Momoche amitwogik anee. Marekto agot. | Me I don't want food. I'm not even hungry. |
 | Kwondo | Bagach kiame echek. Mabarech rubet ago mi amitwogik yu. Imuche isib konut. | Leave it for us to eat. We will not die of hunger and food is here. You can follow your father. |
 
-## Vocabulary
+### Vocabulary
 
 1. **sib** – Follow  
 2. **il** – To break  
@@ -1369,7 +1369,7 @@ Kaomwaa - you have said (o - okwek)
 13. **ting'oek** – cold / flu  
 14. **ryokun** – speed in
 
-## Grammar
+### Grammar
 
 * double -le: Tos \[imwae ile\] kawo en ropta ne wo, \[atebe ale\] anan kobanin chi, \[ingen ile\] anee. What does the second -le do?  
   * Le - say (in this situation stands for -that)  
@@ -1397,13 +1397,13 @@ Kaomwaa - you have said (o - okwek)
 
 ## 
 
-# Lesson 13
+## Lesson 13
 
 **Moning'otiot ak kwondo 4** – Husband and wife 4
 
 [Audio](audio/13%20Moning'otiot%204.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1419,7 +1419,7 @@ Kaomwaa - you have said (o - okwek)
 | Chelangat | Komi ak Recho kwondab Makibior. Kokaba tuiyet nebo saet yoto. | She was with Recho, Makibior's wife. They went to a prayer meeting there. |
 | Bakule | Ya kwondab Makibior missing. Inendet ne inete Bomuru che yach. Nan acheng'un ingoroik iwal che twonen. Kibendi mutai kenyorun inee. Chelangat, ui chiket itoret komet nebo koi okwany. Nan keam logoiwek ak Bakule. | Makibior's wife is bad. She is the one teaching Bomuru bad things. Let me look for some clothes for you to change out of these wet ones. We shall go tomorrow to meet her. Chelangat, go to the kitchen and help your mother of this house to cook. Let us discuss \["eat these news"\] with Bakule. |
 
-## Vocabulary
+### Vocabulary
 
 1. **Logoiwek** – News  
 2. **Chiket** – Kitchen  
@@ -1433,15 +1433,15 @@ Kaomwaa - you have said (o - okwek)
 10. **Saet** – Prayer  
 11. **Alieldoi** – I am lying in bed (relax)
 
-## Grammar
+### Grammar
 
-# Lesson 14
+## Lesson 14
 
 **Moning'otiot ak kwondo 5** – Husband and wife 5
 
 [Audio](audio/14%20moning'otiot%205.mp3)
 
-## Dialog
+### Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
 | :---- | :---- | :---- |
@@ -1457,7 +1457,7 @@ Kaomwaa - you have said (o - okwek)
 | Bomuru | Tomo. Mangen kanam nee. Tos kakoit amun kawo keny | Not yet. I don't know what caught her up. She should have arrived because she went long ago |
 | Bakule | okas o. U mi ne wache. Aikwek Chelangat lakwetab bik. Ongerwai kesorun | You listen. It's like there's someone wailing. Oh my Chelangat people's child. Let's run and save her |
 
-## Vocabulary
+### Vocabulary
 
 1. **Mwanik** – Fats  
 2. **Kwong'** – (Literally, be stupid) Get surprised  
@@ -1465,4 +1465,4 @@ Kaomwaa - you have said (o - okwek)
 4. **Chei** – Make sound  
 5. **Sorun** – Save
 
-## Grammar
+### Grammar
