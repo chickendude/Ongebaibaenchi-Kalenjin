@@ -68,6 +68,10 @@ Kimyet (*ugali*) is made from cornmeal and looks like this:
 Mursik is a traditional fermented milk variant of the Kalenjin people of Kenya. It can be made from cow or goat milk and is fermented in a specially made calabash gourd locally known as a sotet.
 <img src="images/mursik.png" alt="Description" width="80">
 
+### Cultural Note
+
+In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sour" or "bitter". When eating in Kalenjin and you’re asked about the food, you should explain how the food tastes, like *mursik* ("sour milk") in the dialog. It is delicious, but you have to also mention what makes it delicious. That's why we add the word *mindilil*, meaning "sour". The sourness is what makes it delicious.
+
 ### Grammar
 
 #### 1.1 Verb Conjugations in Kalenjin
@@ -183,10 +187,6 @@ Kipsigis is the Kalenjin dialect spoken by most Kalenjin tribes, and in this dia
 *asiorore* or *osiorore*	I am hungry
 
 Whether you use "a" or "o" in these words, the meaning remains the same. The form with “a” is used by all Kalenjin tribes, but the “o” is only used in the Kipsigis dialect. Notice that other "a" sounds generally switch to an "o" as well, not just the initial letter.
-
-### Cultural Note
-
-In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sour" or "bitter". When eating in Kalenjin and you’re asked about the food, you should explain how the food tastes, like *mursik* ("sour milk") in the dialog. It is delicious, but you have to also mention what makes it delicious. That's why we add the word *mindilil*, meaning "sour". The sourness is what makes it delicious.
 
 ## Lesson 2
 
