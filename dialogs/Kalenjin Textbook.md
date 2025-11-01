@@ -2,7 +2,7 @@
 
 [https://docs.google.com/spreadsheets/d/1DWxohACMSwjrrA3ucCpi1uqfZQavr4VygiAKHc0qLmc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1DWxohACMSwjrrA3ucCpi1uqfZQavr4VygiAKHc0qLmc/edit?usp=sharing)
 
-[Audio](01%20Michael%20tastes%20a%20Kalenjin%20meal.mp3)
+[Audio](audio/01%20Michael%20tastes%20a%20Kalenjin%20meal.mp3)
 
 # Lesson 1
 
@@ -192,7 +192,7 @@ In Kalenjin, *onyiny* means "sweet" or "delicious" whereas *mindilil* means "sou
 
 **Michael, Jepkemboi ak Tergat en gaa** – Michael, Jepkemboi and Tergat at home
 
-[Audio](02%20Michael,%20Jepkemboi%20and%20Tergat%20at%20home.mp3)
+[Audio](audio/02%20Michael,%20Jepkemboi%20and%20Tergat%20at%20home.mp3)
 
 ## Dialog
 
@@ -378,7 +378,7 @@ Note again that "maiwek" is considered plural in Kalenjin\!
 
 **Kagesich lakwet** – A child has been born
 
-[Audio](03%20A%20child%20has%20been%20born.mp3)
+[Audio](audio/03%20A%20child%20has%20been%20born.mp3)
 
 ## Dialog
 
@@ -495,7 +495,7 @@ Ilenjin / Mwochin kobwa	Tell them to come
 
 **Kimayat Chemiron** – The Drunkard, Chemiron
 
-[Audio](04%20Chemiron.mp3)  
+[Audio](audio/04%20Chemiron.mp3)  
 [Audio - old ver.](04%20Chemiron%20-%20old.m4a)
 
 ## Dialog
@@ -655,7 +655,7 @@ If I send you to lucas to borrow for me I will say besenwon Lucas
 
 **Katunisiet** - The Wedding
 
-[Audio](05%20Katunisiet.mp3)
+[Audio](audio/05%20Katunisiet.mp3)
 ## Dialog
 
 | Speaker       | Kalenjin                                                | English                                                                     |
@@ -784,7 +784,7 @@ kwondanyun (my wife) vs kwariat nenyun (my ankle)
 
 **Kapkiruok** – Court
 
-[Audio](06%20Kapkiruok.mp3)  
+[Audio](audio/06%20Kapkiruok.mp3)  
 [Audio ver. 2](06%20Kapkiruok%202.mp3)
 
 ## Dialog
@@ -917,7 +917,7 @@ Kiruogindet is anyone who is listening to a case. In Kenya there's a person empl
 
 **Chemoget ak kiboityot** – The boss and the employee
 
-[Audio](07%20Chemoget%20ak%20Kiboityot.mp3)
+[Audio](audio/07%20Chemoget%20ak%20Kiboityot.mp3)
 
 ## Dialog
 
@@ -1001,7 +1001,7 @@ Tos ing'olole Kingereza?	Do you speak English?
 
 **Neko ak bandek** – Goats and maize
 
-[Audio](08%20Neko.mp3)
+[Audio](audio/08%20Neko.mp3)
 
 ## Dialog
 
@@ -1080,7 +1080,7 @@ i3 gai1 gai13 \= to beg
 
 **Nyasutiet** – The Accident
 
-[Audio](09%20Nyasutiet.mp3)
+[Audio](audio/09%20Nyasutiet.mp3)
 
 ## Dialog
 
@@ -1213,7 +1213,7 @@ Kaomwaa - you have said (o - okwek)
 
 **Moning’otiot ak kwondo** – Husband and wife
 
-[Audio](10%20Moning'otiot.mp3)
+[Audio](audio/10%20Moning'otiot.mp3)
 
 ## Dialog
 
@@ -1287,7 +1287,7 @@ Kaomwaa - you have said (o - okwek)
 
 **Moning’otiot ak kwondo 2** – Husband and wife 2
 
-[Audio](11%20Moning'otiot%202.mp3)
+[Audio](audio/11%20Moning'otiot%202.mp3)
 
 ## Dialog
 
@@ -1331,7 +1331,7 @@ Kaomwaa - you have said (o - okwek)
 
 **Moning'otiot ak kwondo 3** – Husband and wife 3
 
-[Audio](12%20Moning'otiot%203.mp3)
+[Audio](audio/12%20Moning'otiot%203.mp3)
 
 ## Dialog
 
@@ -1401,7 +1401,7 @@ Kaomwaa - you have said (o - okwek)
 
 **Moning'otiot ak kwondo 4** – Husband and wife 4
 
-[Audio](13%20Moning'otiot%204.mp3)
+[Audio](audio/13%20Moning'otiot%204.mp3)
 
 ## Dialog
 
@@ -1439,7 +1439,7 @@ Kaomwaa - you have said (o - okwek)
 
 **Moning'otiot ak kwondo 5** – Husband and wife 5
 
-[Audio](14%20moning'otiot%205.mp3)
+[Audio](audio/14%20moning'otiot%205.mp3)
 
 ## Dialog
 
