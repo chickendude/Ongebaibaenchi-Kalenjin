@@ -1,0 +1,21 @@
+[book]
+authors = ["chickendude"]
+language = "en"
+src = "src"
+title = "Ongebaibaenchi Kalenjin"
+
+[build]
+create-missing = true
+extra-watch-dirs = [ "css" ]
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/chickendude/Ongebaibaenchi-Kalenjin"
+default-theme = "rust"
+site-url = "/Ongebaibaenchi-Kalenjin/"
+
+[output.html.fold]
+enable = true
+
+# [output.linkcheck]
+# optional = true
