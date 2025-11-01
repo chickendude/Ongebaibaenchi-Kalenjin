@@ -775,7 +775,7 @@ Are you (sg) among those who are sleeping?
 **Botok che rue?**  
 Are you (pl) among those who are sleeping?
 
-## -nyun
+### 5.5 -nyun
 
 When it ends in a consonant, we generally use nenyun instead of the short -nyun form:  
 kwondanyun (my wife) vs kwariat nenyun (my ankle)
@@ -856,36 +856,36 @@ kwondanyun (my wife) vs kwariat nenyun (my ankle)
 
 ### Grammar
 
-### itu / ite - Directional suffixes
+#### itu / ite - Directional suffixes
 
 You can add -u to the verb to give the meaning of movement towards the speaker, e.g. come here.  
 ibu - ibe (take here / take away)  
 sutu - sute (bring here / take away)  
 ketu - kete (drive here / drive there)
 
-### \*\*moribe sait – what is moribe? Is the root "rib" / keep?
+#### \*\*moribe sait – what is moribe? Is the root "rib" / keep?
 
 Mo is the negative form. So when we say moribe means *he/she doesn't keep*.
 
-### Tomo
+#### Tomo
 
 Tomo is a word meaning *not yet*.  
 Tomo iwe gaa? – You aren't going home yet?  
 Tomo konyo Michael Kenya. – Michael hasn't come to Kenya yet.  
 Tomo kobagach Lucas maiwek. – Lucas hasn't quit beer yet.
 
-### Oini – Is this specific to "me"? Or can you say "oini inye" "oini echek"
+#### Oini – Is this specific to "me"? Or can you say "oini inye" "oini echek"
 
 Oini means "here (I am)" , like *voici* in French.  
 Oini anee. – Here I am.  
 Onchu echek. – Here we are.  
 Onchuun ichek. – Here they are.
 
-### kakanyan - is this the today past tense, "you have waited for me"? "You wait for me" is "ikanyan", so how does that join with the past tense?
+#### kakanyan - is this the today past tense, "you have waited for me"? "You wait for me" is "ikanyan", so how does that join with the past tense?
 
 "You wait for me" - Kanyan we drop "i" for the second person. Kakanyan is what happened a few minutes ago. Interestingly, if it were yesterday we would say *kookanyan*.
 
-### "Koipir lagok ak ityar" is "ityar" also in the past because "ko ipir" is in the past? Could we get some examples of more "double past" sentences?
+#### "Koipir lagok ak ityar" is "ityar" also in the past because "ko ipir" is in the past? Could we get some examples of more "double past" sentences?
 
 The tense of the first verb determines the tense of the ones that follow. If you want to use a different tense with the second verb, you should clarify with time markers.  
 *Koipir ak koityar* is correct but wouldn't sound as nice when talking.  
@@ -894,22 +894,22 @@ The tense of the first verb determines the tense of the ones that follow. If you
 **Koinyebut ak ing'ung'u.** – You drank (beer) and vomited.  
 **Koiru ak isokos.** – You slept and peed.
 
-### "Ee, ko nerekek." Is this a verb "konerekek"? Is "ko" the same thing marks the past tense in verbs?
+#### "Ee, ko nerekek." Is this a verb "konerekek"? Is "ko" the same thing marks the past tense in verbs?
 
 Ko marks the past. Konerekek. In Kalenjin it works the same if ko is separated from the main verb or joined
 
-### Nyolu – Must
+#### Nyolu – Must
 
 This word means "must" and is followed by a verb indicating who "must" do the action.  
 **Nyolu ikwany.** – You must cook (ugali).  
 **Nyolu okwany.** – You all must cook (ugali).
 
-### "lagokuk" – Is this "lagok \+ (che)kwok" for "your"?
+#### "lagokuk" – Is this "lagok \+ (che)kwok" for "your"?
 
 Lagok (che) kuk - your children (as one person).  
 Lagok (che) kwok - your children (more than one person
 
-### Kiruogindet
+#### Kiruogindet
 
 Kiruogindet is anyone who is listening to a case. In Kenya there's a person employed by the government we call then chiefs who have power to arrest and judge on Minor village issues and that is why Kalenjin call kiruogindet.
 
@@ -1132,24 +1132,24 @@ i3 gai1 gai13 \= to beg
 
 ### Grammar
 
-### -ji
+#### -ji
 
 Kakoluulji - "ji" here stands for "to".  
 Kakoluulji karit bereisit. – The car has fallen to a ditch.  
 If we say *kakoluul kariit*, it means *the car has got an accident* (literally *the car has fallen*)
 
-### ako
+#### ako
 
 **Ako** is the same as **ak**. The "o" is just added to make it flow a bit better.
 
-### let's
+#### let's
 
 ngebe – let's go (you and me)  
 ngepir – let's beat (you and me)  
 ongeyom – let's try (all of us)  
 Note: when we're talking to just one person, we use 'ng'. If "let's" refers to two or more people (in addition to yourself), we start with 'o'.
 
-### anan vs. anan ko
+#### anan vs. anan ko
 
 Somok anan ko angwan. – Three or four.  
 If we only say *Somok anan angwan?* it'll be perceived as a question, rather than a statement. Adding "ko" confirms that it's the answer to a question.
@@ -1163,7 +1163,7 @@ If we only say *Somok anan angwan?* it'll be perceived as a question, rather tha
 * Suse **anan** nyee? – Is he biting or chewing?  
 * Suse **anan** **ko** nyee. – He is biting or chewing.
 
-### Torta vs Torten
+#### Torta vs Torten
 
 Amoche atorta karit. – I want to push the car.  
 Torten karit kwo legem. – Push the car to the valley.  
@@ -1173,7 +1173,7 @@ Atortai – I am pushing
 Tortai – They/she/he is/are pushing.  
 Torten – (you) push
 
-### (i)chut
+#### (i)chut
 
 It's pronounced with a high tone when it means to get in and a high falling tone when it means to pull. Additionally, the third-person forms optionally include "i", similar to the second-person singular forms, and only tone distinguishes between them.  
 (Note: Depending on tone, these could also mean "get in")  
@@ -1184,7 +1184,7 @@ kichute – we pull
 ochute – you all pull  
 (i)chute – they pull
 
-### ke- vs kai- vs kaai-
+#### ke- vs kai- vs kaai-
 
 There is a difference, it's not exactly clear to us what it is, perhaps the distance in the past?  
 Keng'alech - you cheated us  
@@ -1195,14 +1195,14 @@ Kaiker Michael, yae nee. – You have seen Michael, what is he doing?
 Kakeer (he saw) vs kaakeer (he has seen) vs kaakokeer (he has seen)  
  → Chito ne kakeer vs Chito ne kaakeer? (can you say both) 
 
-### Isten
+#### Isten
 
 isten – remove  
 keisten – we remove   
 Isten rotwet en yon miten lagok. – Remove the knife from there (where) children are.  
 Isten karit en oret – Remove the vehicle from the road.
 
-### kaomwaa
+#### kaomwaa
 
 Kaomwaa - 'o' many people   
 Kaamwaa - I have said (a- anee)  
